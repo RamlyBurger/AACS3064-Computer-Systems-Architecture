@@ -1,6 +1,14 @@
 # AACS3064 Computer Systems Architecture
 
 <p align="center">
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/RamlyBurger/AACS3064-Computer-Systems-Architecture?style=for-the-badge"></a>
+  <img alt="8086 Assembly" src="https://img.shields.io/badge/8086-Assembly-2F6FED?style=for-the-badge">
+  <img alt="MASM on DOSBox" src="https://img.shields.io/badge/MASM-DOSBox-0E8A16?style=for-the-badge">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/RamlyBurger/AACS3064-Computer-Systems-Architecture?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RamlyBurger/AACS3064-Computer-Systems-Architecture?style=for-the-badge">
+</p>
+
+<p align="center">
   <img src="assets/gif/intro.gif" alt="8086 bookstore POS intro animation" width="800">
 </p>
 
